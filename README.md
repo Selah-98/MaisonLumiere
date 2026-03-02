@@ -1,4 +1,4 @@
-# 🌿 Maison Lumière
+# Maison Lumière
 
 A luxury fashion house showcase website inspired by soft feminine European couture aesthetics.
 
@@ -6,7 +6,7 @@ Maison Lumière is a fully responsive portfolio project featuring a refined edit
 
 ---
 
-## ✨ Project Overview
+##  Project Overview
 
 Maison Lumière represents a high-end fashion house specializing in Parfums and Jewellery.  
 
