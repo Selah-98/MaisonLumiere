@@ -21,7 +21,7 @@ The visual direction is inspired by:
 
 ---
 
-## 🌗 Key Features
+## Key Features
 
 - Fully responsive design (mobile + desktop optimized)
 - Full-screen editorial hero section
