@@ -35,7 +35,7 @@ The visual direction is inspired by:
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 ### Light Theme
 - Background: Soft Ivory `#F4EFE6`
@@ -63,7 +63,7 @@ Gold elements are styled to feel metallic and refined rather than flat.
 
 ---
 
-## 💻 Technical Implementation
+##  Technical Implementation
 
 - Mobile-first responsive layout
 - Clean semantic HTML structure
@@ -74,7 +74,7 @@ Gold elements are styled to feel metallic and refined rather than flat.
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This project was created as a portfolio piece to demonstrate:
 
@@ -86,7 +86,7 @@ This project was created as a portfolio piece to demonstrate:
 
 ---
 
-## 👩🏽‍💼 Founder (Brand Concept)
+##  Founder (Brand Concept)
 
 Julia Ilunga  
 Founder & CEO  
@@ -94,7 +94,7 @@ Maison Lumière
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 This project is designed to be hosted via GitHub Pages.
 
@@ -117,7 +117,7 @@ To deploy:
 
 ---
 
-## 📄 License
+##  License
 
 This project is for portfolio and educational purposes.
 
